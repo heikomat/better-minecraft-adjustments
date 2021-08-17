@@ -1,2 +1,3 @@
 - apply the changes mentioned in `manifest.jsonc` to the modpacks `manifest.json`
+- apply the changes mention in `modlist.html` by removing the mods from the first list and adding the mods from the second list to the modpacks `modlist.html`
 - **replace** `overrides/shaderpacks` in the modpack with the one provided here
