@@ -35,6 +35,13 @@
       "projectID": 233564,
       "fileID": 3424679,
       "required": true
+    },
+    // EZPaS
+    // https://www.curseforge.com/minecraft/mc-mods/ezpas/files
+    {
+      "projectID": 381973,
+      "fileID": 3419399,
+      "required": true
     }
   ]
 }
