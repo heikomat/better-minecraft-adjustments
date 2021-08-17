@@ -10,5 +10,6 @@ These are the changes we apply to the modpack:
 - Add mod: [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 - Add mod: [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
 - Add mod: [EZPaS](https://www.curseforge.com/minecraft/mc-mods/ezpas)
+- Add mod: [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 - Remove mod: [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier) (the mod causes a measurable TPS hit)
 - Update shaderpack: [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders) from 4.0.2 -> 4.1
