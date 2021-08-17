@@ -1,0 +1,3 @@
+- remove the carrier-mod from the mods folder
+- The envrionmental creepers mod is this one: https://www.curseforge.com/minecraft/mc-mods/environmental-creepers/files
+- all other mod urls can be found in client/manifest.jsonc

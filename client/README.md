@@ -1,0 +1,2 @@
+- apply the changes mentioned in `manifest.jsonc` to the modpacks `manifest.json`
+- **replace** `overrides/shaderpacks` in the modpack with the one provided here
