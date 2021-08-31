@@ -1,6 +1,6 @@
 {
   "name": "Better Minecraft [FABRIC]+",
-  "version": "v8-heikomat",
+  "version": "v9.5-heikomat",
   "filesToRemove": [
     // carrier-mod... reduces TPS
     {
@@ -12,7 +12,7 @@
     // https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric/files
     {
       "projectID": 317856,
-      "fileID": 3409583,
+      "fileID": 3436889,
       "required": true
     },
     // simple harvest
