@@ -42,6 +42,13 @@
       "projectID": 381973,
       "fileID": 3419399,
       "required": true
+    },
+    // Eldritch Mobs
+    // https://www.curseforge.com/minecraft/mc-mods/eldritch-mobs/files
+    {
+      "projectID": 392015,
+      "fileID": 3425438,
+      "required": true
     }
   ]
 }
