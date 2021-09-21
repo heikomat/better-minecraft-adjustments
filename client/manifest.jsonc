@@ -12,7 +12,7 @@
     // https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric/files
     {
       "projectID": 317856,
-      "fileID": 3436889,
+      "fileID": 3462804,
       "required": true
     },
     // simple harvest
@@ -26,14 +26,14 @@
     // https://www.curseforge.com/minecraft/mc-mods/where-is-it/files
     {
       "projectID": 378036,
-      "fileID": 3397259,
+      "fileID": 3458395,
       "required": true
     },
     // TechReborn
     // https://www.curseforge.com/minecraft/mc-mods/techreborn/files
     {
       "projectID": 233564,
-      "fileID": 3424679,
+      "fileID": 3461950,
       "required": true
     },
     // EZPaS
@@ -47,7 +47,7 @@
     // https://www.curseforge.com/minecraft/mc-mods/eldritch-mobs/files
     {
       "projectID": 392015,
-      "fileID": 3425438,
+      "fileID": 3462115,
       "required": true
     }
   ]
