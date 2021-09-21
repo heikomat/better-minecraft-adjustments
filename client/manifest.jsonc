@@ -1,6 +1,6 @@
 {
   "name": "Better Minecraft [FABRIC]+",
-  "version": "v10-heikomat",
+  "version": "v12-heikomat",
   "filesToRemove": [
     // carrier-mod... reduces TPS
     {
