@@ -10,11 +10,11 @@
 	// Enable Glowing Elite/Ultra/Eldritch Mobs upon discovery
 	"turnOnGlowingMobs": false,
 	// Out of 100 Mobs
-	"EliteSpawnRates": 1.0,
+	"EliteSpawnRates": 10.0,
 	// Out of 100 Elites
-	"UltraSpawnRates": 1.0,
+	"UltraSpawnRates": 10.0,
 	// Out of 100 Ultras
-	"EldritchSpawnRates": 1.0,
+	"EldritchSpawnRates": 4.0,
 	"healthIncrease": true,
 	"healthMult": false,
 	// Health Boost Level for Elite Mobs
