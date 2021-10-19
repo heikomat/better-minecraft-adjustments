@@ -49,6 +49,13 @@
       "projectID": 392015,
       "fileID": 3462115,
       "required": true
+    },
+    // Applied Energistics 2
+    // https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files
+    {
+      "projectID": 223794,
+      "fileID": 3494100,
+      "required": true
     }
   ]
 }
