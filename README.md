@@ -13,4 +13,4 @@ These are the changes we apply to the modpack:
 - Add mod: [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 - Add mod: [Eldritch Mobs](https://www.curseforge.com/minecraft/mc-mods/eldritch-mobs)
 - Remove mod: [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier) (the mod causes a measurable TPS hit)
-- Update shaderpack: [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders) from 4.0.2 -> 4.1
+- Update shaderpack: [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders) from 4.0.2 -> 4.2.2
