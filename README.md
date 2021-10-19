@@ -5,6 +5,7 @@ Me and a group of friends are playing a modified version of the [better-minecraf
 These are the changes we apply to the modpack:
 
 - Add mod: [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric)
+- Add mod: [NinjaPhenix's Container Library](https://www.curseforge.com/minecraft/mc-mods/ninjaphenixs-container-library)
 - Add mod: [SimpleHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest)
 - Add mod: [Where Is It](https://www.curseforge.com/minecraft/mc-mods/where-is-it)
 - Add mod: [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)

@@ -15,6 +15,13 @@
       "fileID": 3495769,
       "required": true
     },
+    // NinjaPhenix's Container Library
+    // https://www.curseforge.com/minecraft/mc-mods/ninjaphenixs-container-library/files
+    {
+      "projectID": 530668,
+      "fileID": 3493741,
+      "required": true
+    },
     // simple harvest
     // https://www.curseforge.com/minecraft/mc-mods/simplerharvest/files
     {
