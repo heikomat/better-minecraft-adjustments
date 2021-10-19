@@ -56,6 +56,13 @@
       "projectID": 223794,
       "fileID": 3494100,
       "required": true
+    },
+    // Additional Enchanted Miner
+    // https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner/files
+    {
+      "projectID": 282837,
+      "fileID": 3478634,
+      "required": true
     }
   ]
 }
