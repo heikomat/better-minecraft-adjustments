@@ -61,7 +61,7 @@
     // https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files
     {
       "projectID": 223794,
-      "fileID": 3494100,
+      "fileID": 3511054,
       "required": true
     },
     // Additional Enchanted Miner
@@ -69,6 +69,13 @@
     {
       "projectID": 282837,
       "fileID": 3478634,
+      "required": true
+    },
+    // Indium
+    // https://www.curseforge.com/minecraft/mc-mods/indium/files
+    {
+      "projectID": 459496,
+      "fileID": 3484852,
       "required": true
     }
   ]
